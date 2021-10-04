@@ -3,10 +3,10 @@ This program is a simulation of a neural network being trained by a genetic algo
 
 ## Rules
 - The snakes gain health when they consume a piece of food (denoted by the yellow squares)
-- The snakes starves to death if it has not consumed a piece of food within an alotted time
+- The snakes starves to death if it has not consumed a piece of food within an allotted time
 - The snakes can only see the walls, the food, and itself
 - The snakes also dies when it touches itself or the walls
-- The color of the snake represents it's inheritance of DNA from it's parent when mating is peformed
+- The color of the snake represents it's inheritance of DNA from it's parent when mating is performed
 
 ## Instructions
 - Press "SPACEBAR" to pause simulation
