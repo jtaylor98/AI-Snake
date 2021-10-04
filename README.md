@@ -1,8 +1,8 @@
 # AI-Snake
-This is a simple simulation a neural network being trained by a genetic algorithm that is applied to the classic snake game 
-# Instructions
+This program is a simulation of a neural network being trained by a genetic algorithm that whic is implemented through the classic snake game 
+## Instructions
+- Press 
 
-
-# Requirements
+## Requirements
 - Python 3.9.4
 - Pygame
