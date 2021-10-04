@@ -6,6 +6,7 @@ This program is a simulation of a neural network being trained by a genetic algo
 - The snakes starves to death if it has not consumed a piece of food within an alotted time
 - The snakes can only see the walls, the food, and itself
 - The snakes also dies when it touches itself or the walls
+- The color of the snake represents it's inheritance of DNA from it's parent when mating is peformed
 
 ## Instructions
 - Press "SPACEBAR" to pause simulation
@@ -15,3 +16,5 @@ This program is a simulation of a neural network being trained by a genetic algo
 ## Requirements
 - Python 3.9.4
 - Pygame
+
+Inspiration from: https://www.youtube.com/watch?v=BBLJFYr7zB8&t=162s
