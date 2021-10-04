@@ -8,7 +8,7 @@ This program is a simulation of a neural network being trained by a genetic algo
 - The snakes also dies when it touches itself or the walls
 
 ## Instructions
-- Press "Spacebar" to pause simulation
+- Press "SPACEBAR" to pause simulation
 - Press "V" to display the vectors of the snake. The green line is the vector representing its current velocity and the white line is the vector representing its desired velocity
 - Press "F" to display the snakes' FOV (field of view). Only the snake with the highest fitness score FOV is shown
 
