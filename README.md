@@ -17,4 +17,4 @@ This program is a simulation of a neural network being trained by a genetic algo
 - Python 3.9.4
 - Pygame
 
-Inspiration from: https://www.youtube.com/watch?v=BBLJFYr7zB8&t=162s
+Inspired by: https://www.youtube.com/watch?v=BBLJFYr7zB8&t=162s
