@@ -1,6 +1,3 @@
-# AI-Snake
-This program is a simulation of a neural network being trained by a genetic algorithm which is illustrated through the classic snake game and implemented via the Pygame library. The objective of the simulation is for the snakes to survive as long as they can
-
 ## Rules
 - The snakes gain health when they consume a piece of food (denoted by the yellow squares)
 - The snakes starves to death if it has not consumed a piece of food within an allotted time
