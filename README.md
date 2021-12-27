@@ -9,7 +9,7 @@ This program replicates the process of a neuroevolutionary system through a gene
 - The color of the snake represents it's inheritance of DNA from it's parent when mating is performed
 
 ## Instructions
-- Press "SPACEBAR" to pause simulation
+- Press "SPACE" to pause simulation
 - Press "V" to display the vectors of the snake. The green line is the vector representing its current velocity and the white line is the vector representing its desired velocity
 - Press "F" to display the snakes' FOV (field of view). Only the snake with the highest fitness score FOV is shown
 
